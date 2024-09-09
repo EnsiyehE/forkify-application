@@ -4,8 +4,8 @@
   "description": "Recipie application",
    " default " : "index.html" ,
   "scripts": {
-    "start": "parcel starter/index.html",
-    "build": "parcel build starter/index.html --dist-dir ./dist"
+    "start": "parcel starter\\index.html",
+    "build": "parcel build starter\\index.html --dist-dir ./dist"
   },
   "author": "Ensiyeh",
   "license": "ISC",
